@@ -44,7 +44,6 @@ This is a space for interesting links and resources I'm collating and using in m
 | [**She Loves Data**](https://www.shelovesdata.com/) | *"Aimed at women starting or transitioning into data roles, offering workshops, webinars, and global chapters."* |
 | [**R-Ladies**](https://rladies.org/) | *"A worldwide organisation promoting gender diversity in the R programming and data science community."* |
 | [**Data Science Society**](https://www.datasciencesociety.net/) | *"A community for data enthusiasts, providing resources and events for newcomers and experienced professionals."* |
-| [**Women Who Code: Data Science**](https://www.womenwhocode.com/) | *"A network supporting women in data science, with coding workshops, webinars, and career resources."* |
 | [**AI Inclusive**](https://www.ai-inclusive.org/) | *"A community dedicated to increasing diversity and inclusion in artificial intelligence and data science."* |
 | [**CodeNewbie**](https://www.codenewbie.org/) | *"A supportive space for people transitioning into tech, offering podcasts, resources, and weekly Twitter chats."* |
 | [**DataKind**](https://www.datakind.org/) | *"A network of data scientists using their skills for social good, with opportunities to work on impactful projects."* |
@@ -70,3 +69,14 @@ This is a space for interesting links and resources I'm collating and using in m
 | [**HackerRank**](https://www.hackerrank.com/) | *"A platform for practising coding, algorithms, and data structures with a wide range of problems and challenges."* |
 | [**Replit**](https://replit.com/) | *"An online IDE for writing, testing, and sharing code in various programming languages."* |
 | [**Edabit**](https://edabit.com/) | *"A platform with bite-sized coding challenges for beginners and advanced learners, covering multiple programming languages."* |
+
+## **Open Source Projects for Relative Beginners**
+
+| Project Name | Description |
+|--------------|-------------|
+| [**First Contributions**](https://github.com/firstcontributions/first-contributions) | *"A beginner-friendly project designed to teach the basics of contributing to open source with step-by-step instructions."* |
+| [**EddieHub Community**](https://github.com/EddieHubCommunity) | *"A community-driven project encouraging newcomers to contribute to open source while improving collaboration and coding skills."* |
+| [**Public APIs**](https://github.com/public-apis/public-apis) | *"A collaborative repository listing free APIs for developers, ideal for contributing documentation or adding new APIs."* |
+| [**30 Seconds of Code**](https://github.com/30-seconds/30-seconds-of-code) | *"A collection of short, reusable JavaScript code snippets, with opportunities for contributing simple scripts or improving existing ones."* |
+| [**Mozilla’s Developer Tools**](https://github.com/firefox-devtools/debugger) | *"A beginner-friendly project by Mozilla, where you can contribute to Firefox DevTools by fixing bugs or adding features."* |
+| [**Habitica**](https://github.com/HabitRPG/habitica) | *"An open-source habit-building app where beginners can contribute by fixing bugs, adding features, or improving documentation."* |
