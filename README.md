@@ -74,9 +74,6 @@ This is a space for interesting links and resources I'm collating and using in m
 
 | Project Name | Description |
 |--------------|-------------|
-| [**First Contributions**](https://github.com/firstcontributions/first-contributions) | *"A beginner-friendly project designed to teach the basics of contributing to open source with step-by-step instructions."* |
-| [**EddieHub Community**](https://github.com/EddieHubCommunity) | *"A community-driven project encouraging newcomers to contribute to open source while improving collaboration and coding skills."* |
+| [**First Contributions**](https://firstcontributions.github.io/#project-list) | *"Make your first open source contribution in 5 minutes. A list of open-source projects."* |
 | [**Public APIs**](https://github.com/public-apis/public-apis) | *"A collaborative repository listing free APIs for developers, ideal for contributing documentation or adding new APIs."* |
-| [**30 Seconds of Code**](https://github.com/30-seconds/30-seconds-of-code) | *"A collection of short, reusable JavaScript code snippets, with opportunities for contributing simple scripts or improving existing ones."* |
-| [**Mozilla’s Developer Tools**](https://github.com/firefox-devtools/debugger) | *"A beginner-friendly project by Mozilla, where you can contribute to Firefox DevTools by fixing bugs or adding features."* |
 | [**Habitica**](https://github.com/HabitRPG/habitica) | *"An open-source habit-building app where beginners can contribute by fixing bugs, adding features, or improving documentation."* |
