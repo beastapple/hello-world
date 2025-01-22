@@ -77,3 +77,11 @@ This is a space for interesting links and resources I'm collating and using in m
 | [**First Contributions**](https://firstcontributions.github.io/#project-list) | *"Make your first open source contribution in 5 minutes. A list of open-source projects."* |
 | [**Public APIs**](https://github.com/public-apis/public-apis) | *"A collaborative repository listing free APIs for developers, ideal for contributing documentation or adding new APIs."* |
 | [**Habitica**](https://github.com/HabitRPG/habitica) | *"An open-source habit-building app where beginners can contribute by fixing bugs, adding features, or improving documentation."* |
+
+## **Active Data Science Twitch Streams**
+
+| Streamer | Description |
+|----------|-------------|
+| [**Moohoodles**](https://www.twitch.tv/moohoodles) | *"A science communicator with a background in astrobiology, Moohoodles merges gaming with space news, creating an educative and engaging experience for her viewers."*  |
+| [**Nick Wan**](https://www.twitch.tv/nickwan_datasci) | *"Nick Wan streams a variety of content, including coding and data science topics, fostering an interactive learning environment."*  |
+| [**Carl24k**](https://www.twitch.tv/carl24k_datascience) | *"A Data Scientist and Machine Learning Engineer, Carl24k shares insights into data science projects and methodologies."*  |
