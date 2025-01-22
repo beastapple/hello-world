@@ -9,7 +9,6 @@ This is a space for interesting links and resources I'm collating and using in m
 | [**The Open Source Data Science Masters**](http://datasciencemasters.org/) | *"An open-source curriculum for learning to be a Data Scientist."* |
 | [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) | *"An open-source companion to Jake VanderPlas's comprehensive Python Data Science Handbook, covering NumPy, Pandas, Matplotlib, Scikit-learn, and more."* |
 | [**Data Science for Beginners by Microsoft**](https://microsoft.github.io/Data-Science-For-Beginners/) | *"A 10-week, 20-lesson curriculum covering foundational data science concepts, Python coding, and machine learning basics."* |
-| [**Statistical Learning Online Book**](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) | *"Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani, focusing on the applications of statistical methods in data science."* |
 | [**100 Days of Code: Data Science**](https://github.com/avik-jain/100-Days-Of-ML-Code) | *"A practical GitHub repository with projects, code examples, and Python exercises for mastering machine learning and data science."* |
 | [**Awesome Data Science**](https://github.com/academic/awesome-datascience) | *"A curated list of free data science resources, tools, books, and tutorials."* |
 | [**Google's Data Science Guide**](https://developers.google.com/machine-learning/data-prep) | *"A guide by Google focusing on data preparation for machine learning projects."* |
