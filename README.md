@@ -51,3 +51,23 @@ This is a space for interesting links and resources I'm collating and using in m
 | [**DataKind**](https://www.datakind.org/) | *"A network of data scientists using their skills for social good, with opportunities to work on impactful projects."* |
 | [**Analytics Vidhya Community**](https://www.analyticsvidhya.com/) | *"An online platform for data enthusiasts, featuring forums, tutorials, and competitions for all experience levels."* |
 | [**PyLadies**](https://www.pyladies.com/) | *"An international community for women who code in Python, focusing on learning, mentorship, and collaboration."* |
+
+## **Email Newsletters on Data**
+
+| Newsletter Name | Description |
+|------------------|-------------|
+| [**Visual Capitalist**](https://www.visualcapitalist.com/) | *"A newsletter featuring data visualisation, infographics, and insights on global trends, markets, and technology."* |
+| [**Data Elixir**](https://dataelixir.com/) | *"A curated weekly newsletter with the latest data science news, tools, and tutorials."* |
+| [**FlowingData**](https://flowingdata.com/) | *"A newsletter covering data visualisation, design, and data analysis tips and examples."* |
+| [**Analytics Vidhya Weekly**](https://www.analyticsvidhya.com/) | *"Weekly updates on tutorials, job opportunities, and insights from the world of data science and machine learning."* |
+| [**The Information is Beautiful Newsletter**](https://informationisbeautiful.net/) | *"Updates on new data visualisations and resources for presenting information beautifully."* |
+
+## **Websites to Learn and Test Code**
+
+| Website Name | Description |
+|--------------|-------------|
+| [**CodeWars**](https://www.codewars.com/) | *"A platform for learning and practising coding through challenges called 'katas,' with a focus on problem-solving."* |
+| [**LeetCode**](https://leetcode.com/) | *"A site offering coding problems and challenges to help improve coding skills, especially for technical interviews."* |
+| [**HackerRank**](https://www.hackerrank.com/) | *"A platform for practising coding, algorithms, and data structures with a wide range of problems and challenges."* |
+| [**Replit**](https://replit.com/) | *"An online IDE for writing, testing, and sharing code in various programming languages."* |
+| [**Edabit**](https://edabit.com/) | *"A platform with bite-sized coding challenges for beginners and advanced learners, covering multiple programming languages."* |
