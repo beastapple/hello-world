@@ -14,7 +14,7 @@ This is a space for interesting links and resources I'm collating and using in m
 | [**Google's Data Science Guide**](https://developers.google.com/machine-learning/data-prep) | *"A guide by Google focusing on data preparation for machine learning projects."* |
 | [**Data Science Primer by Kaggle**](https://www.kaggle.com/learn/overview) | *"A series of free courses by Kaggle, covering Python, data visualisation, and machine learning."* |
 | [**SciPy Lecture Notes**](https://scipy-lectures.org/) | *"Tutorials covering Python for scientific computing, focusing on NumPy, SciPy, and Matplotlib."* |
-| [**An Introduction to Statistical Learning**](https://scipy-lectures.org/](https://www.statlearning.com/)) | *"An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. This book is appropriate for anyone who wishes to use contemporary tools for data analysis." (Plus there's a course that goes along with the book [here](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python).* |
+| [**An Introduction to Statistical Learning**](https://www.statlearning.com/) | *"An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. This book is appropriate for anyone who wishes to use contemporary tools for data analysis." (Plus there's a course that goes along with the book [here](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python).* |
 
 ## **Free Data Sources for Data Science**
 
