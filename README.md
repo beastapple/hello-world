@@ -7,6 +7,7 @@ This is a space for interesting links and resources I'm collating and using in m
 |---------------|-------------|
 | [**Learning Data Science**](https://learningds.org/intro.html) | *"Learning Data Science is an introductory textbook for data science published by O’Reilly Media in 2023."* |
 | [**The Open Source Data Science Masters**](http://datasciencemasters.org/) | *"An open-source curriculum for learning to be a Data Scientist."* |
+| [**FreeCodeCamp**](https://www.freecodecamp.org/) | *"Learn to code — for free. Build projects. Earn certifications." Includes python, SQL and data science. Loads more learning to be had on [their YouTube channel](https://www.youtube.com/c/Freecodecamp).* |
 | [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) | *"An open-source companion to Jake VanderPlas's comprehensive Python Data Science Handbook, covering NumPy, Pandas, Matplotlib, Scikit-learn, and more."* |
 | [**Data Science for Beginners by Microsoft**](https://microsoft.github.io/Data-Science-For-Beginners/) | *"A 10-week, 20-lesson curriculum covering foundational data science concepts, Python coding, and machine learning basics."* |
 | [**100 Days of Code: Data Science**](https://github.com/avik-jain/100-Days-Of-ML-Code) | *"A practical GitHub repository with projects, code examples, and Python exercises for mastering machine learning and data science."* |
